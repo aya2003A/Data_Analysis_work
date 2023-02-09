@@ -1,0 +1,14 @@
+1 Bahnasawe 10 
+2 Almohamdy 15 
+3 Maher 18 
+4 Sharaf 7 
+6 Alsayed 10 
+7 AyaKh 16 
+8 AyaM 50 
+9 Basmala 13 
+10 Hamed 36 
+12 Marawany 14 
+13 Samir 6
+14 Ola 5 
+15 ElRafee 17 
+17 Sara 1 
